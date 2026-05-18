@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- Banner animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vitor+Mateus+%F0%9F%91%8B;Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Vitor+Mateus+%F0%9F%91%8B;Desenvolvedor+Full+Stack;JavaScript+%7C+TypeScript+%7C+React;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About me
+## 🧑‍💻 Sobre mim
 
-- 🚀 Full Stack Developer focused on modern web applications
-- 💡 Passionate about clean code and great user experiences
-- 🌱 Always evolving — currently deepening my TypeScript skills
-- 💬 Ask me about **JavaScript, React, or Express**
+- 🚀 Desenvolvedor Full Stack focado em aplicações web modernas
+- 💡 Apaixonado por código limpo e boas experiências de usuário
+- 🌱 Sempre evoluindo — atualmente aprofundando meus conhecimentos em TypeScript
+- 💬 Me pergunte sobre **JavaScript, React ou Express**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -34,49 +34,63 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Atividade & Commits
 
+<!-- Commit counter destaque -->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+![Commits Badge](https://img.shields.io/badge/Total%20de%20Commits%20(2025)-↑%20crescendo-238636?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
+<!-- Streak + linguagens lado a lado -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=VitorTxe&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6B35&ring=58A6FF&currStreakLabel=58A6FF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTxe&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58a6ff" />
+</div>
+
+<!-- Gráfico de atividade por ano (wakatime-style activity graph) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorTxe&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f6feb" />
+</div>
+
+<!-- Stats gerais com commits privados -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorTxe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&ring_color=58a6ff" />
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VitorTxe&theme=darkhub&no-frame=true&row=1&column=6" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Histórico de Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VitorTxe/VitorTxe/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> Para ativar a cobra animada, siga as instruções na seção abaixo ⬇️
+> Para ativar a animação da cobra, veja as instruções ao final deste arquivo ⬇️
 
 ---
 
-## 📫 Connect with me
+## 📫 Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_PORTFOLIO.com)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=58a6ff&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=VitorTxe&color=58a6ff&style=flat-square&label=Visualizações+do+Perfil" />
 </div>
