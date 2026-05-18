@@ -69,16 +69,6 @@
 
 ---
 
-## 🐍 Histórico de Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VitorTxe/VitorTxe/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> Para ativar a animação da cobra, veja as instruções ao final deste arquivo ⬇️
-
----
-
 ## 📫 Contato
 
 <div align="center">
