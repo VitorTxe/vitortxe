@@ -29,6 +29,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
@@ -66,6 +70,16 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VitorTxe&theme=darkhub&no-frame=true&row=1&column=6" />
 </div>
+
+---
+
+## 🐍 Histórico de Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VitorTxe/VitorTxe/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+> Para ativar a animação da cobra, veja as instruções ao final deste arquivo ⬇️
 
 ---
 
