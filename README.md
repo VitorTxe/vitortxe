@@ -63,26 +63,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorTxe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&ring_color=58a6ff" />
 </div>
 
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorTxe&theme=darkhub&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 🐍 Histórico de Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VitorTxe/VitorTxe/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> Para ativar a animação da cobra, veja as instruções ao final deste arquivo ⬇️
-
----
-
 ## 📫 Contato
 
 <div align="center">
