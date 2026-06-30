@@ -12,7 +12,7 @@
 - 🚀 Desenvolvedor Full Stack focado em aplicações web modernas
 - 💡 Apaixonado por código limpo e boas experiências de usuário
 - 🌱 Sempre evoluindo — atualmente aprofundando meus conhecimentos em TypeScript
-- 💬 Me pergunte sobre **JavaScript, React ou Express**
+- 💬 Todo dia estudando e fazendo projetos
 
 ---
 
